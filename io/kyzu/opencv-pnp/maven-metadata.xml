@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>kyzu</groupId>
+  <artifactId>opencv-pnp</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221116150531</lastUpdated>
+  </versioning>
+</metadata>
